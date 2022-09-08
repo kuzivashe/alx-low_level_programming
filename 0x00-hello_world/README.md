@@ -3,3 +3,4 @@
 2. Write script that generates the assembly code of a C code and save it in an output file. The C file name will be saved in the variable $CFILE. The output file should be named the same as the c file but with the extension .s instead of .c.
 3. Write a script that compiles a c file and creates an executable named cisfun. The c file wil be saved in the variable $CFILE.
 4. Write a c program that prints exactly "Programming is like building a multilingual puzzle", followed by a new line. Use the function puts. You are not allowed to use printf. Your program should end with the value 0.
+5. Write a c program that prints exactly' with proper grammar, but the outcome is a piece of art, 'followed by a new line. Use the function printf. You are not allowed to us the function puts. Your program should return 0. your program should compile without warning when using the -Wall gcc option.
