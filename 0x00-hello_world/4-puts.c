@@ -5,10 +5,12 @@
   *
   * Return: Always 0 (Success)
   */
-int main(){
-	char words[] = "Programming is like building a multilingual puzzle";
+int main(void)
+{
+	char words[] = "\"Programming is like building a multilingual puzzle";
 
 	puts(words);
 
 	return (0);
+
 }
