@@ -1,3 +1,4 @@
 0. Write a script that runs a c file through the preprocessor and save the result into another file.The c file name will be saved in the variable $CFILE. The output should be saved in the file c.
 1. Write a script that compiles a file but does not link. The C file name will be saved in the variable $CFILE. The output file should be named the same as the C file, but with the extension .o instead of .c.
 2. Write script that generates the assembly code of a C code and save it in an output file. The C file name will be saved in the variable $CFILE. The output file should be named the same as the c file but with the extension .s instead of .c.
+3. Write a script that compiles a c file and creates an executable named cisfun. The c file wil be saved in the variable $CFILE.
