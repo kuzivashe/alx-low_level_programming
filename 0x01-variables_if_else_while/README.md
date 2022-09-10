@@ -8,3 +8,4 @@
 7. Write a program that prints the alphabet in reverse.
 8. Write a program that prints all the numbers of base 16 in lowercase followed by a new line.
 9. Write a program that prints all possible combination of singledigit numbers.
+10. Prints combinations of 2 digits.
