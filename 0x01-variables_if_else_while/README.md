@@ -3,3 +3,4 @@
 2. Write a program that printsb the alphabet in lowercase , followed by a new line. You can only use the putchar function. All your code should be in the main function. You can only use putchar twice in your code.
 3. Write a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line. You can only use putchar.
 4. Write a program that prints the alphabet in lowercase. Print all letters except q and e. Use putchar only twice.
+5. Write a program prints all single digit numbers base 10 starting from 0, followed by a new line.
