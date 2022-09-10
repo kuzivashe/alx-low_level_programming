@@ -2,3 +2,4 @@
 1. This program will assign arandom number to the variable n each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable n. The string Last digit of followed by n , followed by ... followed by a new line.
 2. Write a program that printsb the alphabet in lowercase , followed by a new line. You can only use the putchar function. All your code should be in the main function. You can only use putchar twice in your code.
 3. Write a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line. You can only use putchar.
+4. Write a program that prints the alphabet in lowercase. Print all letters except q and e. Use putchar only twice.
