@@ -5,3 +5,4 @@
 4. Write a function that checks if a character is an alphabet character whether lowercase or uppercase.
 5. Write a function that prints the sign of a number.
 6. Write a function that computes the absolute value of an integer. Prototype: int _abs(int);.
+7. Write a function that prints the last digit of a number.
