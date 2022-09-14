@@ -6,3 +6,4 @@
 5. Write a function that prints the sign of a number.
 6. Write a function that computes the absolute value of an integer. Prototype: int _abs(int);.
 7. Write a function that prints the last digit of a number.
+8. Write a function that prints every minute of the day of Jack Bauerstarting from 00:00 to 23:59.
