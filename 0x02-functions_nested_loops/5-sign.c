@@ -1,7 +1,7 @@
 #include "main.h"
 /**
   * print_sign - checks number sign
-  * @n - input number is an integer
+  * @n: input number is an integer
   * Return: 1 or 0 or -1
   */
 int print_sign(int n)
