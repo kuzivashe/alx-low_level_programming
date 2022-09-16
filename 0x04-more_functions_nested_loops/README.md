@@ -8,3 +8,4 @@
 7. Write a function that draws a diagonal line on the terminal.
 8. Write a function that prints a square, followed by a new line.You can only use _putchar. Where size is the size of the square.
 9. Write a program that prints numbers ffrom 0 to 100, followed by a new  line. But for multiple of 3 print Fizz instead of the number and for the multiples of 5 print buzz. For numbeers that a multiples of both 3 and 5, print FizzBuzz.
+10. Write a triangle that a triangle followed by a new line.
