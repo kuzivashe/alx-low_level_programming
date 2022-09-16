@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "main.h"
 
 /**
@@ -9,11 +10,11 @@
  */
 void print_most_numbers(void)
 {
-	char x;
+	int x;
 
-	for (x = '0'; x <= '9'; x++)
+	for (x = 48; x <= 57; x++)
 	{
-		if (x != '2' && x != '4')
+		if (x != 50 && x != 52)
 		{
 			_putchar(x);
 		}
