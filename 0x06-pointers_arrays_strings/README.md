@@ -2,3 +2,4 @@
 1. Write a function that concatenates two strings. The _strncat function is similar to the _strcat except that it will use at most n bytes from src. src doesnot need to be null-terminated if it contains n or more bytes.
 2. Write a function that copies a string.
 3. Write a function that compares 2 strings.
+4. Write a function that reverses the content of an array of integers.
