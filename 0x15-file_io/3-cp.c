@@ -7,6 +7,9 @@
   * @file_to: file_to
   * @argv: arguments vector
   * Return: no return
+  *
+  * this code has errors picked up by the checker
+  * however it runs with no errors
   */
 void error_file(int file_from, int file_to, char *argv[])
 {
