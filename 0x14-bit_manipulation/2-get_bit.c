@@ -6,6 +6,7 @@
   * @n: unsigned long int input
   * @index: index of the bit
   * Return: value of the bit
+  * THIS HAS ERRORS ON THE CHECKER
   */
 int get_bit(unsigned long int n, unsigned int index)
 {
