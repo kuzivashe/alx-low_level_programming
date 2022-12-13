@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdlib.h>
 
 int _strlen(char *s);
 
@@ -10,7 +11,7 @@ int _strlen(char *s);
 int main(void)
 {
 	printf("%d\n", _strlen("My Dyn Lib"));
-	return (0);
+	return EXIT_SUCCESS;
 }
 
 /**
