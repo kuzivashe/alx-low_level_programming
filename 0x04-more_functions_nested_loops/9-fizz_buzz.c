@@ -8,9 +8,9 @@
  */
 int main(void)
 {
-	int num = 0;
+	int num = 1;
 
-	while (num++ < 100)
+	while (num <= 99)
 	{
 		if ((num % 3 == 0) && (num % 5 == 0))
 		{
@@ -25,8 +25,11 @@ int main(void)
 			printf("Buzz ");
 		}
 		else
+		{
 			printf("%d ", num);
+		}
+		num++;
 	}
-printf("\n");
-return (0);
+	printf("Buzz\n");
+	return (0);
 }
