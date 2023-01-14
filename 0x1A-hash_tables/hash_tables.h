@@ -26,7 +26,7 @@ typedef struct hash_node_s
   * @size: size of the array
   * @array: an array of size @size
   * Each cell of this array is a pointer to the first node
-  * of a linkedlist, because we want our hashTable to use a 
+  * of a linkedlist, because we want our hashTable to use a
   * chaining handling
   */
 typedef struct hash_table_s
